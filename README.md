@@ -1,43 +1,55 @@
 # DS-GA-3001-Advanced-Python
 
-This repository contains materials, tutorials, and weekly resources for the **Advanced Python** course taught by [**Alberto Bietti**](https://alberto.bietti.me/), Faculty at the NYU Center for Data Science.
+This repository contains materials, tutorials, and weekly resources for **DS-GA-3001: Advanced Python for Data Science**, taught by **Alberto Bietti**, Faculty at the NYU Center for Data Science.
 
-The course focuses on writing high-performance Python code, optimization techniques, parallel computing, and GPU programming.
-
----
-
-## 📚 Weekly Tutorials
-
-| **Week** | **Topic** | **Resource / Link** |
-|-----------|------------|----------------------|
-| **01** | Shell Fundamentals | [Shell – Software Carpentry](https://swcarpentry.github.io/shell-novice/) |
-| **02** | Python Performance Tips | [Performance Tips – Alberto Bietti](http://alberto.bietti.me/python-performance-tips/) |
-| **03** | The `itertools` Module | [itertools – Alberto Bietti](http://alberto.bietti.me/python-itertools/) |
-| **04** | Python Performance Tuning | [Performance Tuning – NYU CDS](https://nyu-cds.github.io/python-performance-tuning/) |
-| **05** | Cython | [Cython – NYU CDS](https://nyu-cds.github.io/python-cython/) |
-| **06** | Numba | [Numba – NYU CDS](https://nyu-cds.github.io/python-numba/) |
-| **07** | Project Proposal Presentations | — |
-| **08** | Optimization in Python | — |
-| **09** | Python Concurrency | [Concurrency – NYU CDS](https://nyu-cds.github.io/python-concurrency/) |
-| **10** | Parallel Programming | — |
-| **11** | Python MPI | [Parallel Programming with MPI – NYU CDS](https://nyu-cds.github.io/python-mpi/) |
-| **12** | Python for GPUs (CUDA Programming) | [CUDA with Numba – NYU CDS](https://nyu-cds.github.io/python-numba/05-cuda/) |
-| **13** | Big Data with PySpark | — |
-| **14** | Final Project Presentations | — |
+The course explores advanced techniques for improving Python program performance, including parallel computation, GPU acceleration, and big data analysis with Spark.
 
 ---
 
-## 🧠 Course Focus
+## 📚 Weekly Schedule
 
-- Profiling and optimizing Python performance  
-- Acceleration with **Cython**, **Numba**, and **GPU computing**  
-- Parallel and distributed programming (Threads, MPI, PySpark)  
-- Efficient memory management and vectorization  
-- Building scalable and high-performance Python applications  
+| **Week** | **Topic** | **Highlights** |
+|-----------|------------|----------------|
+| **01** | Shell Fundamentals | Learn command-line basics, scripting, and file system automation. |
+| **02** | Python Performance Tips | Profiling, vectorization, and writing efficient Python code. |
+| **03** | The itertools Module | Advanced iteration patterns and functional programming tools. |
+| **04** | Python Performance Tuning | Runtime optimization and identifying performance bottlenecks. |
+| **05** | Cython | Integrating C extensions to accelerate numerical computations. |
+| **06** | Numba | Applying JIT compilation to improve computational performance. |
+| **07** | Project Proposal Presentations | Team project ideas and discussion. |
+| **08** | Optimization in Python | Practical methods for numerical and parameter optimization. |
+| **09** | Python Concurrency | Asynchronous programming, threading, and I/O parallelism. |
+| **10** | Parallel Programming | Multiprocessing and distributed workload execution. |
+| **11** | Python MPI | Building distributed programs using message passing (MPI). |
+| **12** | Python for GPUs | GPU acceleration using CUDA and Numba. |
+| **13** | Big Data with PySpark | Distributed data processing and scalable analytics. |
+| **14** | Final Project Presentations | Final project demonstrations and discussion. |
+
+---
+
+## 🎯 Course Description
+
+This course covers **advanced Python programming** with a focus on performance, scalability, and parallelization.  
+Students gain hands-on experience with optimizing Python applications, implementing parallel and GPU-accelerated computation, and analyzing large-scale data using Spark.
+
+---
+
+## 💡 What I Learned
+
+Through this course, I learned how to bridge the gap between clean Python code and high-performance computing.  
+I became proficient in profiling and optimizing code, leveraging **Numba** and **Cython** for acceleration, and implementing **parallel and GPU-based computations**.  
+Additionally, I gained hands-on experience with **concurrency models**, **distributed systems**, and **big data frameworks** like **PySpark**, allowing me to build scalable and efficient data science pipelines.
+
+---
+
+## 📚 Recommended Resources
+
+- *Introduction to Parallel Computing* — Grama et al. (Pearson, 2003)  
+- *Big Data: Principles and Best Practices of Scalable Real-Time Data Systems* — Marz & Warren (Manning, 2015)  
 
 ---
 
 ## ✍️ Author
 
 **Wenxin Zhang**  
-*NYU – Advanced Python (Instructor: [Alberto Bietti](https://alberto.bietti.me/), Faculty at NYU Center for Data Science)*
+*NYU — DS-GA-3001: Advanced Python for Data Science (Instructor: Alberto Bietti, Faculty at NYU Center for Data Science)*
