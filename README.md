@@ -1,6 +1,6 @@
 # DS-GA-3001-Advanced-Python
 
-This repository contains materials, tutorials, and weekly resources for the **Advanced Python** course taught by [**Professor Alberto Bietti**](https://alberto.bietti.me/).
+This repository contains materials, tutorials, and weekly resources for the **Advanced Python** course taught by [**Alberto Bietti**](https://alberto.bietti.me/), Faculty at the NYU Center for Data Science.
 
 The course focuses on writing high-performance Python code, optimization techniques, parallel computing, and GPU programming.
 
@@ -40,4 +40,4 @@ The course focuses on writing high-performance Python code, optimization techniq
 ## ✍️ Author
 
 **Wenxin Zhang**  
-*NYU – Advanced Python (Instructor: [Professor Alberto Bietti](https://alberto.bietti.me/))*
+*NYU – Advanced Python (Instructor: [Alberto Bietti](https://alberto.bietti.me/), Faculty at NYU Center for Data Science)*
