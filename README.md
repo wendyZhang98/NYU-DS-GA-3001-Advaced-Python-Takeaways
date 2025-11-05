@@ -1,17 +1,43 @@
-# Advaced Python
+# DS-GA-3001-Advanced-Python
 
-Webpage Tutorials:
-- Week 01: [Shell](https://swcarpentry.github.io/shell-novice/)
-- Week 02: [Python Performance Tips](http://alberto.bietti.me/python-performance-tips/)
-- Week 03: [The itertools module](http://alberto.bietti.me/python-itertools/)
-- Week 04: [Python Performance Tuning](https://nyu-cds.github.io/python-performance-tuning/)
-- Week 05: [Cython](https://nyu-cds.github.io/python-cython/)
-- Week 06: [Numba](https://nyu-cds.github.io/python-numba/)
-- Week 07: Project proposal presentations
-- Week 08: Optimization in Python
-- Week 09: [Python Concurrency](https://nyu-cds.github.io/python-concurrency/)
-- Week 10: Parallel Programming
-- Week 11: [Parallel Programming: Python MPI](https://nyu-cds.github.io/python-mpi/)
-- Week 12: [Python for GPUs: CUDA Programming](https://nyu-cds.github.io/python-numba/05-cuda/)
-- Week 13: BigData with PySpark
-- Week 14: Final project presentations
+This repository contains materials, tutorials, and weekly resources for the **Advanced Python** course taught by [**Professor Alberto Bietti**](https://alberto.bietti.me/).
+
+The course focuses on writing high-performance Python code, optimization techniques, parallel computing, and GPU programming.
+
+---
+
+## 📚 Weekly Tutorials
+
+| **Week** | **Topic** | **Resource / Link** |
+|-----------|------------|----------------------|
+| **01** | Shell Fundamentals | [Shell – Software Carpentry](https://swcarpentry.github.io/shell-novice/) |
+| **02** | Python Performance Tips | [Performance Tips – Alberto Bietti](http://alberto.bietti.me/python-performance-tips/) |
+| **03** | The `itertools` Module | [itertools – Alberto Bietti](http://alberto.bietti.me/python-itertools/) |
+| **04** | Python Performance Tuning | [Performance Tuning – NYU CDS](https://nyu-cds.github.io/python-performance-tuning/) |
+| **05** | Cython | [Cython – NYU CDS](https://nyu-cds.github.io/python-cython/) |
+| **06** | Numba | [Numba – NYU CDS](https://nyu-cds.github.io/python-numba/) |
+| **07** | Project Proposal Presentations | — |
+| **08** | Optimization in Python | — |
+| **09** | Python Concurrency | [Concurrency – NYU CDS](https://nyu-cds.github.io/python-concurrency/) |
+| **10** | Parallel Programming | — |
+| **11** | Python MPI | [Parallel Programming with MPI – NYU CDS](https://nyu-cds.github.io/python-mpi/) |
+| **12** | Python for GPUs (CUDA Programming) | [CUDA with Numba – NYU CDS](https://nyu-cds.github.io/python-numba/05-cuda/) |
+| **13** | Big Data with PySpark | — |
+| **14** | Final Project Presentations | — |
+
+---
+
+## 🧠 Course Focus
+
+- Profiling and optimizing Python performance  
+- Acceleration with **Cython**, **Numba**, and **GPU computing**  
+- Parallel and distributed programming (Threads, MPI, PySpark)  
+- Efficient memory management and vectorization  
+- Building scalable and high-performance Python applications  
+
+---
+
+## ✍️ Author
+
+**Wenxin Zhang**  
+*NYU – Advanced Python (Instructor: [Professor Alberto Bietti](https://alberto.bietti.me/))*
